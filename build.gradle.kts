@@ -5,3 +5,4 @@ plugins {
     alias(libs.plugins.google.ksp) apply false
     alias(libs.plugins.google.playServices) apply false
 }
+
